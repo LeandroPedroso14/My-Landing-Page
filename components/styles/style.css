@@ -14,3 +14,9 @@ header{
     justify-content: space-between;
     align-items: center;
 }
+
+ #title {
+     flex-direction: column;
+     line-height: 10px;
+     
+}
