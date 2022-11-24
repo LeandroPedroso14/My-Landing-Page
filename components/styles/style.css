@@ -18,5 +18,10 @@ header{
  #title {
      flex-direction: column;
      line-height: 10px;
-     
+
+}
+
+h1{
+    font-weight: 200;
+    
 }
