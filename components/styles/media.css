@@ -1,5 +1,16 @@
 @media screen and (max-width: 760px){
-    body{
-        back
+   header{
+        flex-direction: column;
+    }
+
+    main {
+        flex-direction: column;
+    }
+    h2{
+        font-size: 38px;
+    }
+    img{
+        width:360px;
+        margin-top: 100px;
     }
 }
