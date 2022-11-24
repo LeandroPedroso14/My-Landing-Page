@@ -17,11 +17,24 @@ header{
 
  #title {
      flex-direction: column;
-     line-height: 10px;
+     line-height:30px;
 
 }
 
 h1{
     font-weight: 200;
-    
+}
+
+main{
+    inline-size: auto;
+    display: flex;
+    flex-direction: row;
+    margin-top: 50;
+}
+
+article {
+    position: absolute;
+    top: 20%;
+    right: 10%;
+
 }
