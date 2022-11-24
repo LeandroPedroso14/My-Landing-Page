@@ -68,3 +68,7 @@ a{
     color: rgba(97, 7, 7, 0.863);
 }
 
+a:hover{
+    color: rgb(132,14,201);
+}
+
