@@ -57,3 +57,7 @@ h2{
 span{
     color: rgb(194, 137, 15);
 }
+
+p{
+    line-height: 20px;
+}
