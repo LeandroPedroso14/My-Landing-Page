@@ -59,5 +59,7 @@ span{
 }
 
 p{
-    line-height: 20px;
+    line-height: 50px;
+    max-width: 1200px;
+    font-family: poppinslight;
 }
