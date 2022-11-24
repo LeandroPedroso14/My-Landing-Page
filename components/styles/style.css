@@ -48,3 +48,8 @@ h1{
     font-size: 56px;
     line-height: 10px;
 }
+
+h2{
+    font-size: 35px;
+    font-family: poppinsmedium;
+}
