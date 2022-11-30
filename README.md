@@ -11,10 +11,14 @@ Documentation of my page.
 
 On this page are my personal and technical information.
 
-Languages used.
+### 🛠 Technologies
 
-[![Arquivo HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![Arquivo CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+The following tools were used in building the project.:
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [HTML5](https://html.spec.whatwg.org/)
+- [CSS3](https://www.w3.org/TR/css3-roadmap/)
+- [GitHub](https://github.com/)
 
 Access my post on linkedin.
 
@@ -32,6 +36,8 @@ Features:
 - [ ]  Medium PYTHON.
 - [ ]  Advanced PYTHON.
 - [ ]  Professional experience.
+
+
 
 
 
