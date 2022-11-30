@@ -1,4 +1,4 @@
-<h1 align ="center"> Welcome to my page ! </h1>
+<h1 align ="center"> Welcome to my page items ! </h1>
 
 <h1 align="center">
 <img src= "components/images/Logotipo.png" width="300" height="300" />
