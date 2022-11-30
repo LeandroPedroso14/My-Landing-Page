@@ -1,4 +1,7 @@
 <h1 align ="center"> Welcome to my page ! </h1>
+
+<img src="components/images/logotipo" />
+
 My data on the page.
 
 On this page are my personal and technical information.
