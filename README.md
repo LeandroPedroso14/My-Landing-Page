@@ -6,7 +6,7 @@
 
 My data on the page.
 
-[![]()]
+[![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]
 
 On this page are my personal and technical information.
 
