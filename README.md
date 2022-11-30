@@ -1,6 +1,6 @@
 <h1 align ="center"> Welcome to my page ! </h1>
 
-<img align ="center" src="./images/logotipo.png" />
+<img src="./images/Logotipo.png" />
 
 My data on the page.
 
