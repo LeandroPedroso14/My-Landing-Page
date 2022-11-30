@@ -21,8 +21,10 @@ Access my post on linkedin.
 [![Meu linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/leandro-pedroso14_html-css-developer-activity-7001710501369950208-avKg?utm_source=share&utm_medium=member_desktop)
 
 <h4 align="center"> 
-	🚧   🚀 Em construção...  🚧
+	🚧   🚀 Under construction...  🚧
 </h4>
+
+
 
 To play the page:
 
