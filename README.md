@@ -13,10 +13,12 @@ On this page are my personal and technical information.
 
 Languages used.
 
-[![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![Blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![Arquivo HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![Arquivo CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 
 Access my post on linkedin.
+
+[![Meu linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/leandro-pedroso14_html-css-developer-activity-7001710501369950208-avKg?utm_source=share&utm_medium=member_desktop)
 
 To play the page:
 
