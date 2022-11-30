@@ -24,6 +24,15 @@ Access my post on linkedin.
 	🚧   🚀 Under construction...  🚧
 </h4>
 
+Features:
+
+- [x]  Basic HTML.
+- [x]  Basic CSS.
+- [x]  Basic PYTHON.
+- [ ]  Medium PYTHON.
+- [ ]  Advanced PYTHON.
+- [ ]  Professional experience.
+
 
 
 To play the page:
