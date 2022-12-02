@@ -8,6 +8,8 @@
 Documentation of my page.
 </h2>
 
+<p>Be directed to the materials  
+<a href="https://github.com/LeandroPedroso14/My-landing-page/tree/main/components">Files 📂</a></p>
 
 ### 🛠 Technologies
 
