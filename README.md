@@ -8,10 +8,12 @@
 Documentation of my page.
 </h2>
 
-<p>Be directed to the materials  
+<p>Be directed to the materials,  
 <a href="https://github.com/LeandroPedroso14/My-landing-page/tree/main/components">Files 📂</a></p>
 
-### 🛠 Technologies
+<h2 align="center">
+ 🛠 Technologies
+</h2>
 
 The following tools were used in building the project.:
 
