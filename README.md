@@ -1,7 +1,7 @@
 <h1 align ="center"> Welcome to my page items ! </h1>
 
 <h1 align="center">
-<img src= "components/images/Logotipo.png" width="300" height="300" />
+<img src= "/images/Logotipo.png" width="300" height="300" />
 </h1>
 
 <h2 align="center">
