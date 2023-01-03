@@ -1,24 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset='utf-8'>
-    <title>Minha Página</title>
-</head>
-<body>
-
-<main id='page-content'>
-    <section id='sect-one'>
-        <!-- CONTEÚDO DA SESSÃO 1 -->
-    </section>
-
-    <section id='sect-two'>
-        <!-- CONTEÚDO DA SESSÃO 2 -->
-    </section>
-</main>
-
-</body>
-</html>
-
 
 #page-content {
    width:100%;
@@ -42,14 +21,7 @@
 }
 
 
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset='utf-8'>
-    <title>Minha Página</title>
-</head>
 
-<style>
     #page-content {
         width:100%;
         display:flex;
@@ -75,21 +47,3 @@
             width:100%;
         }
     }
-</style>
-
-<body>
-
-<main id='page-content'>
-    <section id='sect-one'>
-        <!-- CONTEÚDO DA SESSÃO 1 -->
-    </section>
-
-    <section id='sect-two'>
-        <!-- CONTEÚDO DA SESSÃO 2 -->
-    </section>
-</main>
-
-</body>
-</html>
-
-
