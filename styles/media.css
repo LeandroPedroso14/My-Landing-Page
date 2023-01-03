@@ -1,25 +1,26 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset='utf-8'>
-    <title>Minha Página</title>
-</head>
-<body>
-
-<main id='page-content'>
-    <section id='sect-one'>
-        <!-- CONTEÚDO DA SESSÃO 1 -->
-    </section>
-
-    <section id='sect-two'>
-        <!-- CONTEÚDO DA SESSÃO 2 -->
-    </section>
-</main>
-
-</body>
-</html>
-
-
+@media screen and (max-width: 760px){
+    header{
+         flex-direction: column;
+     }
+ 
+     main {
+         flex-direction: column;
+     }
+     h2{
+         font-size: 38px;
+     }
+     img{
+         width: 90px;
+         margin-top: 100px;
+         margin: 90px;
+     }
+ 
+     ul{
+         text-align: center;
+     }
+     h1{
+         margin: 70px;
+     }
 #page-content {
    width:100%;
    display:flex;
@@ -41,15 +42,6 @@
    }
 }
 
-
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset='utf-8'>
-    <title>Minha Página</title>
-</head>
-
-<style>
     #page-content {
         width:100%;
         display:flex;
@@ -75,19 +67,3 @@
             width:100%;
         }
     }
-</style>
-
-<body>
-
-<main id='page-content'>
-    <section id='sect-one'>
-        <!-- CONTEÚDO DA SESSÃO 1 -->
-    </section>
-
-    <section id='sect-two'>
-        <!-- CONTEÚDO DA SESSÃO 2 -->
-    </section>
-</main>
-
-</body>
-</html>
