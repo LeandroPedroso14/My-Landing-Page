@@ -21,4 +21,10 @@
     h1{
         margin: 70px;
     }
+
+    #carouselExampleIndicators {
+        max-width: 100vw;
+        overflow-x: hidden;
+    }
+    
 }
