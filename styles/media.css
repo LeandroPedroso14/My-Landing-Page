@@ -10,7 +10,7 @@
 }
 
 
-@media(max-width:768px) {
+@media(max-width:100px) {
    #page-content {
       flex-direction: column;
    }
