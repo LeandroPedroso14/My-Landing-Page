@@ -21,49 +21,4 @@
      h1{
          margin: 70px;
      }
-#page-content {
-   width:100%;
-   display:flex;
-   justify-content:space-between;
 }
-
-#sect-one, #sect-two {
-   width:50%;
-}
-
-
-@media(max-width:768px) {
-   #page-content {
-      flex-direction: column;
-   }
-
-   #sect-one, #sect-two {
-      width:100%;
-   }
-}
-
-    #page-content {
-        width:100%;
-        display:flex;
-        justify-content:space-between;
-    }
-
-    #sect-one, #sect-two {
-        width:50%;
-
-        /* APENAS PARA VISUALIZAR, PODE APAGAR! */
-        height: 500px;
-        background-color:red;
-
-
-    }
-
-    @media(max-width:768px) {
-        #page-content {
-            flex-direction: column;
-        }
-
-        #sect-one, #sect-two {
-            width:100%;
-        }
-    }
