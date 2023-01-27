@@ -1,36 +1,36 @@
-body{
-    background-color:rgb(119, 171, 219);
-    color: rgb(28, 116, 108);
-    font-family:poppinsregular;
+body {
+    background-color: rgb(119, 171, 219);
+    color: rgb(29, 30, 122);
+    font-family: poppinsregular;
     max-width: 1200px;
-    margin:0 auto;
+    margin: 0 auto;
     padding: 15px;
-    
+
 }
- 
-header{
+
+header {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
 }
 
- #title {
-     flex-direction: column;
-     line-height:30px;
+#title {
+    flex-direction: column;
+    line-height: 30px;
 
 }
 
-li{
+li {
     display: inline-block;
     margin: 20px;
 }
 
-h1{
+h1 {
     font-weight: 200;
 }
 
-main{
+main {
     inline-size: auto;
     display: flex;
     flex-direction: row;
@@ -44,36 +44,35 @@ article {
 
 }
 
-h1{
+h1 {
     font-size: 50px;
     line-height: 45px;
 }
 
-h2{
+h2 {
     font-size: 35px;
     font-family: poppinsmedium;
 }
 
-span{
+span {
     color: rgb(194, 137, 15);
 }
 
-p{
+p {
     line-height: 50px;
     max-width: 1200px;
     font-family: poppinslight;
 }
 
-a{
+a {
     color: rgba(189, 51, 51, 0.863);
 }
 
-a:hover{
-    color: rgb(132,14,201);
+a:hover {
+    color: rgb(132, 14, 201);
     transition: 0.3ms all;
 }
 
-h2{
+h2 {
     color: rgb(67, 67, 158);
 }
-
